@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "version": "2.0.0",
+  "notes": "修复重复打开软件窗口的问题。",
+  "installer": {
+    "url": "https://github.com/JDCui1221/-/releases/download/v2.0.0/_Setup_v2.0.exe",
+    "size": 321887506,
+    "sha256": "2279399ab0f496b31553ce9c3fbe62565c374a0582fe0d24169c209e012e3eff"
+  }
+}
