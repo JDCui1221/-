@@ -1,10 +1,14 @@
 {
   "schema": 1,
-  "version": "2.0.0",
-  "notes": "修复重复打开软件窗口的问题。",
+  "version": "2.0.1",
+  "notes": "支持软件内下载和确认后安装更新；修复与改进。",
   "installer": {
-    "url": "https://github.com/JDCui1221/-/releases/download/v2.0.0/_Setup_v2.0.exe",
-    "size": 321887506,
-    "sha256": "2279399ab0f496b31553ce9c3fbe62565c374a0582fe0d24169c209e012e3eff"
+    "url": "https://github.com/JDCui1221/-/releases/download/v2.0.1/SpeechToText_Setup_v2.0.1.exe",
+    "size": 328639911,
+    "sha256": "f08636503173769070af03c2796cd6ed08002d3bc6f658a4029e15fc57413e3f"
+  },
+  "signature": {
+    "algorithm": "ECDSA-P256-SHA256",
+    "value": "BvkynZBu3tBUN62xjookwQiE71Rrslz9QID7zIzu9SQs/jQ+OZulSy7SDDWfs/P+MZduOne7DZiGSWWFhnAr3g=="
   }
 }
